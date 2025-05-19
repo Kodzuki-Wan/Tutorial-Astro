@@ -1,5 +1,5 @@
 ---
-
+const pageTitle = "Turorial de Astro";
 ---
 
 <html lang="en">
@@ -8,14 +8,14 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Tutorial Astro</title>
+		<title>{pageTitle}</title>
 	</head>
 	<body>
 		<a href="/">Inicio</a>
         <a href="/about">Sobre mi</a>
 		<a href="/blog">Blog</a>
 
-		<h1>Este es el tutorial de Astro, por Juan Carlos</h1>
+		<h1>{pageTitle}</h1>
 		<p>Hola, bienvenido a mi tutorial de Astro. Aquí aprenderás a crear una página web con Astro.</p>
 						
 	</body>
