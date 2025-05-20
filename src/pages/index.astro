@@ -1,11 +1,13 @@
 ---
 import '../styles/global.css';
-import Navigation from '../components/Navigation.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
 
 const pageTitle = "Turorial de Astro";
 ---
 
-<html lang="en">
+<html lang="es">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -14,10 +16,14 @@ const pageTitle = "Turorial de Astro";
 		<title>{pageTitle}</title>
 	</head>
 	<body>
-		<Navigation />
+		<Header />
 
 		<h1>{pageTitle}</h1>
 		<p>Hola, bienvenido a mi tutorial de Astro. Aquí aprenderás a crear una página web con Astro.</p>
-						
+		<Footer />	
+		
+		<script>
+    		import "../scripts/menu.js";
+  		</script>
 	</body>
 </html>
