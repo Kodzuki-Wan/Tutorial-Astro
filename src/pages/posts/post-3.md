@@ -1,6 +1,7 @@
 ---
-title: 'Mi primera publicación en el blog'
-pubDate: 2025-05-19
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'Tercera publicacion del blog.'
+pubDate: 2025-05-21
 description: 'Este es la primera publicacion de mi nuevo blog Astro.'
 author: 'Juan Velasquez'
 image: 
