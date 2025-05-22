@@ -84,14 +84,8 @@ h1 {
 
 }
 
-
-
-h1 {
-    color: rgb(183, 32, 183);
-                font-size: 4rem;
-            }
-            .skill {
-                color: var(--skillColor);
-                font-weight: var(--fontWeight);
-                text-transform: var(--textCase);
-            }
+.skill {
+  color: var(--skillColor);
+  font-weight: var(--fontWeight);
+  text-transform: var(--textCase);
+}

@@ -3,6 +3,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = "Turorial de Astro";
 ---
 <BaseLayout pageTitle={pageTitle}>
-	<h2>Mi impresionante subtitulo del blog.</h2>
-	<p>Hola, bienvenido a mi blog de Astro. Aquí compartiré mis experiencias y aprendizajes mientras trabajo en el tutorial de Astro.</p>
+    <h2>Mi impresionante subtitulo del blog.</h2>
+    <p>Hola, bienvenido a mi blog de Astro. Aquí compartiré mis experiencias y aprendizajes mientras trabajo en el tutorial de Astro.</p>
+
+    <div 
+        id="image-box"
+        style="display: flex; justify-content: center; align-items: center; height: 300px; border: 2px solid #ccc; border-radius: 12px; background: #f9f9f9; margin: 2rem 0;"
+    >
+        <img 
+            id="main-image"
+            src="../../Public/Onix/ojos_abiertos.svg" 
+            alt="Descripción de la imagen" 
+            style="max-width: 100%; max-height: 250px; object-fit: contain;" 
+        />
+    </div>
+    <p>En este blog, compartiré mis experiencias y aprendizajes mientras trabajo en el tutorial de Astro. Espero que encuentres útil la información y que te ayude a mejorar tus habilidades en desarrollo web.</p>
+
+	<script>	
+		import "../scripts/onix.js";
+	</script>
 </BaseLayout>
