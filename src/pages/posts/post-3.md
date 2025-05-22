@@ -7,7 +7,7 @@ author: 'Juan Velasquez'
 image: 
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'El logotipo completo de Astro.'
-tags: ["astro","bloguear","aprender en publico"]
+tags: ["relleno","vacio","sin imaginacion","Fortaleza"]
 ---
 Este post es de relleno, hace 1 min escribi el anterior y aun no se me ocurre nada para escribir en este. 
 En proceso de mejora de mi imaginacion :). 

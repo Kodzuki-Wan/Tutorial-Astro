@@ -7,7 +7,7 @@ author: 'Juan Velasquez'
 image: 
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'El logotipo completo de Astro.'
-tags: ["astro","bloguear","aprender en publico"]
+tags: ["astro","bloguear","aprender en publico","Fortaleza"]
 ---
 ¡Bivienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aqui, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web. 
 

@@ -7,7 +7,7 @@ author: 'Juan Velasquez'
 image: 
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'El logotipo completo de Astro.'
-tags: ["astro","bloguear","aprender en publico"]
+tags: ["avance","persistencia","inrrompible", "codigo","Fortaleza"]
 ---
 Antes de iniciar este tutorial no comprendia muy bien varios conceptos de Astro, pero ahora eso a cambiado, me he vuelto experto en Astro (En lo que a basico se refiere).
 El dia de hoy al parecer terminare el tutorial y obviamente cambiare el nombre a este proyecto, quiero que se combierta en mi blog personal y asi poder expresarme ante el mundo. 

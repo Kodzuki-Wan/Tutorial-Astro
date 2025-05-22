@@ -7,7 +7,7 @@ author: 'Juan Velasquez'
 image: 
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'El logotipo completo de Astro.'
-tags: ["astro","bloguear","aprender en publico"]
+tags: ["Aventura","autoaprendizaje","persistencia","Fortaleza"]
 ---
 Despues de unas cuantas horas aprendiendo sobre Astro, mis opiniones sobre atro van mejorando. 
 Hasta ahora a sido bastante facil trabajar con el y muy versatil.
